@@ -30,7 +30,7 @@ public class Sukkit
 
         AnsiConsole.systemInstall();
         // Clear the screen and start logging
-        Critical("Sukkit has detected a problem with your current installation. The software will attemp to fix this.");
+        Critical("Sukkit has detected a problem with your current installation. The software will attempt to fix this.");
         Notice("Press enter to continue with the automatic fix...");
         
         // Wait for any user input
