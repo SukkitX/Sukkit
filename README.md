@@ -1,4 +1,5 @@
 # Sukkit
-A solar-powered server software (duh, what else would the name mean)
+A solar-powered server software
+This is a Nukkit fork that aims to fix all Nukkit's current problems!
 
 Readme is coming soon...
